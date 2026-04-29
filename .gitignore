@@ -1,0 +1,29 @@
+# === 个人凭据（绝对不要提交）===
+deepseek_api_key.txt
+bilibili_cookie.txt
+
+# === 日志 ===
+crash.log
+*.log
+
+# === PyInstaller 产物 ===
+dist/
+build/
+*.spec
+
+# === 工作区临时文件 ===
+_workspace/
+
+# === 大文件（用户自行下载）===
+ffmpeg.exe
+
+# === Python 缓存 ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# === IDE ===
+.vscode/
+.idea/
