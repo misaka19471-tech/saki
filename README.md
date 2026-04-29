@@ -12,7 +12,7 @@ B站评论爬取（视频 + 动态）+ AI 智能分析 + 视频解析下载的 W
 
 ## 快速开始（普通用户）
 
-1. 前往 **[Releases 页面](https://github.com/misaka19471-tech/saki/releases)** 下载最新版的 `B站爬虫-v1.0.0.zip`
+1. 前往 **[Releases 页面](https://github.com/misaka19471-tech/bilibili-spider/releases)** 下载最新版的 `B站爬虫-v1.0.0.zip`
 2. 解压后双击 `B站爬虫.exe` 即可运行
 
 > 无需安装 Python，下载即用。
@@ -34,8 +34,8 @@ B站评论爬取（视频 + 动态）+ AI 智能分析 + 视频解析下载的 W
 ### 步骤
 
 ```bash
-git clone https://github.com/misaka19471-tech/saki.git
-cd saki
+git clone https://github.com/misaka19471-tech/bilibili-spider.git
+cd bilibili-spider
 pip install -r requirements.txt
 python bilibili_comment_spider.py
 ```
